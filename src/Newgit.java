@@ -4,5 +4,6 @@ public class Newgit {
     {
 
         System.out.println("Welcome to Github");
+        System.out.println("New wording");
     }
 }
